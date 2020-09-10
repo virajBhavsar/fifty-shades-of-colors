@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  text-align: center;
+  height: 100vh;
+  background: linear-gradient(to top right ,blue,lightblue);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+h1{
+color:white;
+ user-select:none;
+}
